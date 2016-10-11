@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyByContact.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Accelerometer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameCOntroller.cs" Line="46" Column="13" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByBoundary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TouchInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="6" Column="30" />
+      <File FileName="Assets\Done\Done_Scripts\Done_GameController.cs" Line="40" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Rishi\FinalProject\Assets\Done\Done_Scripts\Done_GameController.cs" line="40" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
